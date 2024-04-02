@@ -1,6 +1,6 @@
 # Welcome to Byte Bash Blitz's Technical Onboarding 
 
-![Byte Bash Blitz Logo](logo.png)
+![Byte Bash Blitz Logo](bashers.png)
 
 Welcome, Bashers! 🚀
 
