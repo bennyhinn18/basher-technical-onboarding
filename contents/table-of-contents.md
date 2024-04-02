@@ -30,7 +30,7 @@
 18. [Group Project Presentation & Peer Review (Continued)](Day-18.md)
 19. [Introduction to Different IT Career Paths (Continued)](Day-19.md)
 
-### Weeks 6 & 7 (New Weeks): Advanced Topics (Optional)
+### Weeks 6 & 7 : Advanced Topics (Optional)
 20. [Introduction to Databases](Day-20.md)
 21. [Data Structures & Algorithms](Day-21.md)
 22. [Introduction to Cloud Computing](Day-22.md)
