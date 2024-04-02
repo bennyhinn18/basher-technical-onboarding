@@ -25,8 +25,8 @@ Happy learning! 💻✨
 
 [**next >**](#)
 
-[**Prerequisite**](/prerequisite)
+[**Prerequisite**](/contents/prerequisite)
 
-[**Table of Contents**](/table-of-contents)
+[**Table of Contents**](/contents/table-of-contents)
 
 
