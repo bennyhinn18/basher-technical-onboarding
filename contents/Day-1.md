@@ -31,6 +31,7 @@ Here are some resources to help you learn more about computer hardware:
 - **YouTube Tutorials:** Search for beginner-friendly videos on "Computer Hardware Components"
 
 **Animated Youtube Video:** Check out this engaging video that explains computer components, input/output devices, and their roles in a fun and animated way: 
+- [**How does Computer Hardware Work?**](https://www.youtube.com/watch?v=d86ws7mQYIg&ab_channel=BranchEducation)
 - [**Crash Course Computer Science - Hardware**](https://m.youtube.com/watch?v=FZGugFqdr60)
 
 By understanding these core components, you'll gain a newfound appreciation for the complex machinery that powers your digital world. Happy learning! 🖥️🚀
