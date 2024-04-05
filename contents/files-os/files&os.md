@@ -1,6 +1,6 @@
-## Day 2: Files and Operating Systems
+## Files and Operating Systems
 
-Welcome to Day 2! Today, we'll delve into the world of files, folders, and the operating systems that keep your computer organized and running smoothly.
+Today, we'll delve into the world of files, folders, and the operating systems that keep your computer organized and running smoothly.
 
 ### Understanding Files and Folders
 
@@ -52,34 +52,34 @@ By understanding files, folders, and operating systems, you'll be well on your w
 **Understanding Files and Folders:**
 
 * **Interactive Course:**  
-  * **CodeCombat: [https://codecombat.com/](https://codecombat.com/)** (Learn file structures and navigate directories with a fun coding game) 
+  * **[CodeCombat:](https://codecombat.com/)** (Learn file structures and navigate directories with a fun coding game) 
   * This interactive course takes a unique approach to learning about files and folders. Through a gamified coding experience, CodeCombat allows you to explore file systems, create and manage directories, and navigate your way through code challenges. It's a fun and engaging way to solidify your understanding of these foundational concepts.
 
 * **Animation Video:**  
-  * **Crash Course Computer Science - Files and Folders: [https://m.youtube.com/watch?v=KN8YgJnShPM](https://m.youtube.com/watch?v=KN8YgJnShPM)** (A clear and engaging explanation of files and folders)  
+  * **[Crash Course Computer Science - Files and Folders:](https://m.youtube.com/watch?v=KN8YgJnShPM)** (A clear and engaging explanation of files and folders)  
   Crash Course Computer Science offers a fantastic YouTube video specifically explaining files and folders. In their signature engaging style, they break down the concept in a clear and concise way, using relatable examples and visuals. This video is a great resource for anyone who prefers a more visual learning approach.
 
 * **Resource to Read:**  
-  * **HowStuffWorks - Inside Your Computer: Files: [https://computer.howstuffworks.com/](https://computer.howstuffworks.com/)** (In-depth explanation of file systems and file types)  
+  * **[HowStuffWorks - Inside Your Computer: Files:](https://computer.howstuffworks.com/)** (In-depth explanation of file systems and file types)  
   HowStuffWorks provides a comprehensive written resource on computer files. This website delves deeper into the technical aspects of file systems, different file types, and how they are stored on your computer. It's a valuable resource for those who want a more in-depth understanding beyond the basic functionalities.
 
 
 **Understanding Operating Systems:**
 
 * **Interactive Course:**  
-  * **Udacity - Intro to Operating Systems: [https://www.udacity.com/course/introduction-to-operatingsystems--ud923](https://www.udacity.com/course/introduction-to-operatingsystems--ud923)** (Free online course with interactive exercises)  
+  * **[Udacity - Intro to Operating Systems:](https://www.udacity.com/course/introduction-to-operatingsystems--ud923)** (Free online course with interactive exercises)  
   Udacity offers a free introductory course on Operating Systems. This interactive course provides a structured learning experience with video lectures, quizzes, and hands-on exercises. You'll gain a deeper understanding of the various functions and components of an operating system, going beyond the basic overview covered in this pathway.
 
 * **Animation Video:**  
-  * **CS Dojo - What is an Operating System?: [https://m.youtube.com/watch?v=ACsLvXuaKxw](https://m.youtube.com/watch?v=ACsLvXuaKxw)** (A concise and informative video about operating systems)  
+  * **[CS Dojo - What is an Operating System?:](https://m.youtube.com/watch?v=ACsLvXuaKxw)** (A concise and informative video about operating systems)  
   CS Dojo offers a short and informative video that explains the concept of an operating system. This video provides a clear overview of the essential functions an OS performs, making it a valuable resource for anyone new to the concept.
 
 * **Resource to Read:**  
-  * **Wikipedia - Operating System: [https://en.wikipedia.org/wiki/Operating_system](https://en.wikipedia.org/wiki/Operating_system)** (Detailed information on operating systems and their history)  
+  * **[ikipedia - Operating System:](https://en.wikipedia.org/wiki/Operating_system)** (Detailed information on operating systems and their history)  
   For a more comprehensive and technical explanation of operating systems, Wikipedia offers a detailed article covering various aspects. You'll find information about the history of operating systems, different types of OSes, and their core functionalities. This resource is best suited for those who enjoy deep dives and extensive technical knowledge.
 
 By exploring these resources, you'll gain a well-rounded understanding of files, folders, and operating systems, setting a strong foundation for your journey into computer science!
 
 [**Table of Contents**](/contents/table-of-contents.md)
 
-[**< Previous**](#) | [**Next >**](#)
+[**< Previous**](/contents/Day-1.md) | [**Next >**](#)
