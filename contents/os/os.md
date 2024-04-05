@@ -54,4 +54,4 @@ By understanding operating systems and their connection to file management, you'
 
 [**Table of Contents**](/contents/table-of-contents.md)
 
-[**< Previous**](/contents/files-folders/files&folder.md) | [**Next >**](#)
+[**< Previous**](/contents/files-folders/files&folder.md) | [**Next >**](/contents/browser/browser.md)
